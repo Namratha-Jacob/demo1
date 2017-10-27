@@ -1,0 +1,2 @@
+commands to get in command line
+git clone (url)
